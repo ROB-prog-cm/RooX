@@ -1,0 +1,37 @@
+.wrapper {
+  width: 420px;
+  height: 85px;
+  background-color: #F3F3F3;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.title {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.subTitle {
+  margin: 10px 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  cursor: pointer;
+  color: #4B51EF;
+  outline: none;
+  border: none;
+  margin: 10px 5px;
+}
+
+.info{
+  font-size: 15px;
+  color: black;
+}
+.infoHeader{
+  font-size: 15px;
+  color:  #A3A3A3;;
+}
